@@ -2,6 +2,8 @@
 
 ## Commands
 
+The [Git Documentation](https://git-scm.com/docs) is a great reference for looking up specifics about a command including syntax and usage.
+
 ### git init
 
 Create a new repository in the current directory. This is only done once per repository and is not needed when contributing to an established repository.
