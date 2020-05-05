@@ -25,3 +25,7 @@ Check the status of your git repository. This provides information about current
 Push the branch to **remote**, along with necessary commits and objects. If the branch does not exist on the remote you will be presented with a command to create the remote branch and push the local branch to the new remote branch.
 
 ![git push new branch](img/git-push-new-branch.png?raw=true "git push new branch")
+
+### git pull
+
+Fetch remote copy of current branch and immediately apply commits on the remote into the local copy.
