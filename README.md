@@ -35,3 +35,7 @@ Fetch remote copy of current branch and immediately apply commits on the remote 
 Retrieve all changes in the remote repository. Fetch will pull the changes locally but not apply commits to the local copy.
 
 ![git branch behind HEAD](img/git-branch-behind-HEAD.png?raw=true "git branch behind HEAD")
+
+### git commit
+
+Create a new commit containing the staged file changes.
