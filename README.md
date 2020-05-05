@@ -59,3 +59,7 @@ Unstage any changes, but leave the working directory unchanged.
 ### git revert
 
 Create new commit that undoes all of the changes made in a commit specified as a command parameter, then apply it to the current branch.
+
+### git stash
+
+Save current uncommitted changes for later.
