@@ -39,3 +39,7 @@ Retrieve all changes in the remote repository. Fetch will pull the changes local
 ### git commit
 
 Create a new commit containing the staged file changes.
+
+### git merge
+
+Merge the given branch into the current branch.
