@@ -29,3 +29,9 @@ Push the branch to **remote**, along with necessary commits and objects. If the 
 ### git pull
 
 Fetch remote copy of current branch and immediately apply commits on the remote into the local copy.
+
+### git fetch
+
+Retrieve all changes in the remote repository. Fetch will pull the changes locally but not apply commits to the local copy.
+
+![git branch behind HEAD](img/git-branch-behind-HEAD.png?raw=true "git branch behind HEAD")
