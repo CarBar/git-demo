@@ -19,3 +19,9 @@ The `git branch` command can be used to view branches that exist in a repository
 Check the status of your git repository. This provides information about current branch, content changes both staged and not.
 
 ![git status](img/git-status.png?raw=true "VisualStudio GIT settings")
+
+### git push
+
+Push the branch to **remote**, along with necessary commits and objects. If the branch does not exist on the remote you will be presented with a command to create the remote branch and push the local branch to the new remote branch.
+
+![git push new branch](img/git-push-new-branch.png?raw=true "git push new branch")
