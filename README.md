@@ -43,3 +43,7 @@ Create a new commit containing the staged file changes.
 ### git merge
 
 Merge the given branch into the current branch.
+
+### git cherry-pick
+
+Create a duplicate of a commit that exists on a branch on the current branch.
