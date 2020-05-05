@@ -9,3 +9,7 @@ Create a new repository in the current directory. This is only done once per rep
 ### git clone
 
 Make a local copy of a remote repository to work with it. A repository is only needed to be cloned one time.
+
+### git branch
+
+The `git branch` command can be used to view branches that exist in a repository. The `-a` switch will allow you to view both remote and local branches. This command can also be used to create and delete branches as desired. Though creating branches is simple to do with [checkout](#git-checkout).
