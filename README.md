@@ -55,3 +55,7 @@ Replay commits on your current branch since the last common point onto the HEAD 
 ### git reset
 
 Unstage any changes, but leave the working directory unchanged.
+
+### git revert
+
+Create new commit that undoes all of the changes made in a commit specified as a command parameter, then apply it to the current branch.
