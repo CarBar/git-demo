@@ -6,3 +6,4 @@
   - [Posh-Git](https://github.com/dahlbyk/posh-git)
 - [Git Bash](https://gitforwindows.org/) _has a GUI_
 - [GitKraken](https://www.gitkraken.com)
+- [Sourcetree](https://www.sourcetreeapp.com/)
