@@ -7,3 +7,4 @@
 - [Git Bash](https://gitforwindows.org/) _has a GUI_
 - [GitKraken](https://www.gitkraken.com)
 - [Sourcetree](https://www.sourcetreeapp.com/)
+- [Visual Studio Code](https://code.visualstudio.com/) GIT Integration
